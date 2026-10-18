@@ -1,11 +1,11 @@
 
 fastapi
 uvicorn
-scikit-learn
+scikit-learn==1.6.1
 pandas
 numpy
 joblib
 supabase
 python-dotenv
 gunicorn
-imbalanced-learn
+imbalanced-learn==0.14.0
