@@ -8,3 +8,4 @@ joblib
 supabase
 python-dotenv
 gunicorn
+imbalanced-learn
