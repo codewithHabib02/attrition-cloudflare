@@ -29,7 +29,7 @@ const initialForm = {
   stockOptionLevel: '0',
 }
 
-const API_URL = 'https://attrition-cloudflare-4.onrender.com/predict'
+const API_URL = 'https://attrition-cloudflare-4.onrender.com/predict';
 
 function App() {
   const [activePage, setActivePage] = useState('Dashboard')
